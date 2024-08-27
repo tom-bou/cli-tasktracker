@@ -1,5 +1,4 @@
 # CLI Task Tracker
-https://roadmap.sh/projects/task-tracker
 
 A simple command-line task tracker built with Node.js. This tool allows you to manage tasks through a variety of commands such as adding, listing, marking tasks as done, and removing tasks.
 
